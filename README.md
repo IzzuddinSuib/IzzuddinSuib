@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IzzuddinSuib
-- 👀 I’m interested in data science dapps and web 3.0.
+- 👀 I’m interested in data science, dapps and web 3.0.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on making dapps and web 3.0.
 - 📫 You can reach me through email at bazumatusa@gmail.com
